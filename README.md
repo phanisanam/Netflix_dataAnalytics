@@ -20,7 +20,7 @@
 - Built **streaming tables** on top of Silver Delta tables to simulate real-time ingestion.  
 - Performed **aggregations** (e.g., movie counts by genre, release year, ratings).  
 
-## Phase 4: Analytics (Gold Layer)
+## 🔹 Phase 4: Analytics (Gold Layer)
 - Transformed curated Silver data into **business-ready Gold tables** using **DLT workflows**.  
 - Aggregated and enriched data for downstream analytics.
 
